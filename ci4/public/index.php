@@ -103,7 +103,7 @@
 
 	<section>
 		<h2>Welcome to My Website</h2>
-		<p>Hi, my name is Albert Damian S. Pagkalinawan and this is my personal website. I love Playing fps video games and spend most of my free time trying to improve my programming skills. I graduated Senior Highschool from Integrated Montisori Center and currently studying in Asia Pacific College. I am passionate about game development and always looking for ways to improve my skills and knowledge.</p>
+		<p>Hi, my name is Albert Damian S. Pagkalinawan and this is my personal website. I love Playing fps video games and spend most of my free time trying to improve my programming skills. I graduated Senior Highschool from Integrated Montessori Center and currently studying in Asia Pacific College. I am passionate about game development and always looking for ways to improve my skills and knowledge.</p>
 
 		<h2>My Portfolio</h2>
 		<p>Here are some of my latest projects:</p>
