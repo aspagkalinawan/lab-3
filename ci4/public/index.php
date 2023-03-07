@@ -103,7 +103,7 @@
 
 	<section>
 		<h2>Welcome to My Website</h2>
-		<p>Hi, my name is [Your Name] and this is my personal website. I love [Hobbies/Interests] and spend most of my free time doing [Activity]. I graduated from [University] with a degree in [Major] and currently work as a [Job Title]. I am passionate about [Industry/Field] and always looking for ways to improve my skills and knowledge.</p>
+		<p>Hi, my name is Albert Damian S. Pagkalinawan and this is my personal website. I love Playing fps video games and spend most of my free time trying to improve my programming skills. I graduated Senior Highschool from Integrated Montisori Center and currently studying in Asia Pacific College. I am passionate about game development and always looking for ways to improve my skills and knowledge.</p>
 
 		<h2>My Portfolio</h2>
 		<p>Here are some of my latest projects:</p>
@@ -115,6 +115,6 @@
 	</section>
 
 	<footer>
-		<p>&copy; 2023 My Personal Website. All rights reserved.</p>
+		<p>Personal Profile</p>
 	</footer>
 </body
